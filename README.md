@@ -1,7 +1,7 @@
 # GDSC_Kickoff_2024
 Project - Electron (UN-17 Goals of Sustainable Development of Affordable and Clean Energy Goal-7. )
 
-<h1 align="center">💠 👋, 𝘐'𝘮 Om! 💠</h1>
+<h1 align="center">💠 👋, 𝘐'𝘮 Om Panpatil! 💠</h1>
 <div align="center">
   <img src="https://logogen.gdscasu.com/logos/v-color.png">
   <img width="720" height="auto" src=Add-ons/FSN.gif>
